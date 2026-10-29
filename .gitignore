@@ -1,0 +1,19 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Local / temp
+*.log
+*.tmp
+.env
+.env.*
+
+# Docker / build leftovers
+*.tar
+assignment-screenshots/
+_report_body.docx
+*.pdf
+!docs/
